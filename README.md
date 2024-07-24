@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building Machine Learning Algorithm Library**
 
-- 🌱 I’m currently learning **Deep Learning, Data Structures and Algorithms**
+- 🌱 I’m currently learning **Deep Learning, and DSA with python**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
