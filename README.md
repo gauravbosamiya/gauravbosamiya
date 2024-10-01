@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravbosamiya](https://github.com/gauravbosamiya)
 
-- 💬 Ask me about **Machine Learning, Web Development**
+- 💬 Ask me about **Machine Learning, Deep Learning and DSA**
 
 - 📫 How to reach me **gauravbosamiya9@gmail.com**
 
