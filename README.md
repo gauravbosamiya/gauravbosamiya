@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbosamiya&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbosamiya" /> </p>
 
--  portfolio link - **ttps://gauravbosamiya.github.io/portfolio/**
+-  portfolio link - **https://gauravbosamiya.github.io/portfolio/**
 
 - 🌱 I’m currently learning **Deep Learning, and DSA with python**
 
