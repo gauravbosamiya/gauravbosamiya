@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbosamiya&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbosamiya" /> </p>
 
-- 🔭 I’m currently working on **Building Machine Learning Algorithm Library**
-
 - 🌱 I’m currently learning **Deep Learning, and DSA with python**
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
