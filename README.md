@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbosamiya&show_icons=true&locale=en" alt="gauravbosamiya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gauravbosamiya" alt="gauravbosamiya" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gauravbosamiya" alt="GitHub Streak" /></a>
