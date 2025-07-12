@@ -5,13 +5,13 @@
 
 -  portfolio link - **https://gauravbosamiya.github.io/portfolio/**
 
-- 🌱 I’m currently learning **Deep Learning, and DSA with python**
+- 🌱 I’m currently learning **Agentic AI, and DSA with python**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, GenAI and AgenticAI Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravbosamiya](https://github.com/gauravbosamiya)
 
-- 💬 Ask me about **Machine Learning, Deep Learning and DSA**
+- 💬 Ask me about **Machine Learning, Deep Learning, GenAI and DSA**
 
 - 📫 How to reach me **gauravbosamiya9@gmail.com**
 
