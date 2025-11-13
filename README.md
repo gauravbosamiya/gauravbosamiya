@@ -26,26 +26,15 @@
 
 ### 🧠 Tech Stack Summary
 
-#### 🗣️ **GenAI & LLMs**
-- LangChain (RAG), LangSmith, Groq API, Hugging Face, Pinecone, ChromaDB, FAISS, MCP (Model Context Protocol)
+**GenAI & LLMs:** LangChain (RAG), LangSmith, Groq API, Hugging Face, Pinecone, ChromaDB, FAISS, MCP  
+**ML / DL:** TensorFlow, Keras, PyTorch, Scikit-learn, Transformers, CNN, RNN, LSTM, Transfer Learning  
+**MLOps & Deployment:** MLflow, DVC, Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, ECR)  
+**Cloud & DB:** MongoDB Atlas, MySQL  
+**Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn  
+**Frameworks & Tools:** FastAPI, Streamlit, Git, PowerBI 
+**Languages:** Python, SQL
 
-#### 🤖 **Machine Learning / Deep Learning**
-- TensorFlow, Keras, Scikit-learn, Transformers, CNN, RNN, LSTM, Transfer Learning
-
-#### ⚙️ **MLOps & Deployment**
-- MLflow, DVC, Docker, Kubernetes, CI/CD (GitHub Actions), AWS (EC2, S3, ECR)
-
-#### ☁️ **Cloud & Databases**
-- AWS, MongoDB Atlas, MySQL
-
-#### 📊 **Data & Visualization**
-- Pandas, NumPy, Matplotlib, Seaborn
-
-#### 🧩 **Frameworks & Tools**
-- FastAPI, Streamlit, Django, Git
-
-#### 💻 **Languages**
-- Python, SQL, Java
+---
 
 ---
 
