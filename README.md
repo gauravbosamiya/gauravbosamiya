@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bosamiya</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Passionate about Generative AI, Deep Learning & Agentic Systems</h3>
+<h3 align="center"> Aspiring AI/ML Engineer | Passionate about Generative AI, Deep Learning & Agentic Systems</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravbosamiya&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbosamiya" />
