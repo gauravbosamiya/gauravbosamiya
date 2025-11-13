@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bosamiya</h1>
-<h3 align="center">A passionate ML Engineer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravbosamiya&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbosamiya" /> </p>
 
 -  portfolio link - **https://gauravbosamiya.github.io/portfolio/**
 
-- 🌱 I’m currently learning **Agentic AI, and DSA with python**
+- 🌱 I’m currently learning **Agentic AI, MCP**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, GenAI and AgenticAI Projects**
 
@@ -20,8 +20,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-bosamiya-702540260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-bosamiya-702540260/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/gauravbosamiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gauravbosamiya" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_gauravvv_9/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_gauravvv_9/?next=%2f" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucnj817ghftebmiegdxr6ncq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucnj817ghftebmiegdxr6ncq" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/gauravbo2d8r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/gauravbo2d8r/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
