@@ -1,80 +1,103 @@
 <h1 align="center">Hi 👋, I'm Gaurav Bosamiya</h1>
-<h3 align="center">A passionate AI/ML Engineer</h3>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | Passionate about Generative AI, Deep Learning & Agentic Systems</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravbosamiya&label=Profile%20views&color=0e75b6&style=flat" alt="gauravbosamiya" />
 </p>
 
-- portfolio link - **https://gauravbosamiya.github.io/portfolio/**
+---
 
-- 🌱 I’m currently learning **Agentic AI, MCP**
+### 💼 About Me  
+- 🎓 Pursuing **M.Sc. in Data Science** from **VIT Vellore**  
+- 🔍 Actively **seeking internship or entry-level roles** in **AI/ML, Deep Learning, or Generative AI**  
+- 🤝 Open to collaborations in **AI, GenAI, NLP, and Intelligent Agent systems**  
+- 👨‍💻 All my projects: [github.com/gauravbosamiya](https://github.com/gauravbosamiya)  
+- 💬 Ask me about **Machine Learning, Deep Learning, GenAI, and DSA**  
+- 🌐 Portfolio: [https://gauravbosamiya.github.io/portfolio/](https://gauravbosamiya.github.io/portfolio/)  
+- 📫 Reach me at **gauravbosamiya9@gmail.com**  
 
-- 👯 I’m looking to collaborate on **Machine Learning, Deep Learning, GenAI and AgenticAI Projects**
+<p align="center">
+  <a href="https://drive.google.com/file/d/1byyJDaOkRk-Ud9fZ4gbriwx33vP2w9G-/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" alt="Resume"/>
+  </a>
+</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gauravbosamiya](https://github.com/gauravbosamiya)
+---
 
-- 💬 Ask me about **Machine Learning, Deep Learning, GenAI and DSA**
+### 🧠 Tech Stack Summary
 
-- 📫 How to reach me **gauravbosamiya9@gmail.com**
+#### 🗣️ **GenAI & LLMs**
+- LangChain (RAG), LangSmith, Groq API, Hugging Face, Pinecone, ChromaDB, FAISS, MCP (Model Context Protocol)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+#### 🤖 **Machine Learning / Deep Learning**
+- TensorFlow, Keras, Scikit-learn, Transformers, CNN, RNN, LSTM, Transfer Learning
+
+#### ⚙️ **MLOps & Deployment**
+- MLflow, DVC, Docker, Kubernetes, CI/CD (GitHub Actions), AWS (EC2, S3, ECR)
+
+#### ☁️ **Cloud & Databases**
+- AWS, MongoDB Atlas, MySQL
+
+#### 📊 **Data & Visualization**
+- Pandas, NumPy, Matplotlib, Seaborn
+
+#### 🧩 **Frameworks & Tools**
+- FastAPI, Streamlit, Django, Git
+
+#### 💻 **Languages**
+- Python, SQL, Java
+
+---
+
+### 🤝 Connect with Me  
+<p align="center">
   <a href="https://www.linkedin.com/in/gaurav-bosamiya-702540260/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Gaurav Bosamiya" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
   </a>
   <a href="https://www.kaggle.com/gauravbosamiya" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Gaurav Bosamiya" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" alt="Kaggle" width="40" height="40" style="filter: invert(40%) sepia(90%) saturate(200%) hue-rotate(190deg);" />
+  </a>
+  <a href="mailto:gauravbosamiya9@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40" style="filter: invert(23%) sepia(100%) saturate(5488%) hue-rotate(348deg);" />
+  </a>
+  <a href="https://github.com/gauravbosamiya" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
   </a>
   <a href="https://www.instagram.com/_gauravvv_9/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - _gauravvv_9" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height="45"/>
+  </a>
+  <a href="https://gauravbosamiya.github.io/portfolio/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="Portfolio" width="45" height="45"/>
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-learn" width="45" height="45"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="45" height="45"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="45" height="45"/></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="45" height="45"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="45" height="45"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" width="45" height="45"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45"/></a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravbosamiya&show_icons=true&locale=en&layout=compact" alt="gauravbosamiya" />
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauravbosamiya&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gauravbosamiya&theme=tokyonight" alt="GitHub Streak" width="49%"/>
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravbosamiya&show_icons=true&locale=en" alt="gauravbosamiya" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravbosamiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="49%"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=gauravbosamiya" alt="gauravbosamiya" />
-</p>
+---
