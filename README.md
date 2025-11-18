@@ -11,8 +11,8 @@
 - 🎓 Pursuing **M.Sc. in Data Science** from **VIT Vellore**  
 - 🔍 Actively **seeking internship or entry-level roles** in **AI/ML, Deep Learning, or Generative AI**  
 - 🤝 Open to collaborations in **AI, GenAI, NLP, and Intelligent Agent systems**  
-- 👨‍💻 All my projects: [github.com/gauravbosamiya](https://github.com/gauravbosamiya)  
-- 💬 Ask me about **Machine Learning, Deep Learning, GenAI, and DSA**  
+- 👨‍💻 All my projects: [github.com/gauravbosamiya](https://github.com/gauravbosamiya)
+- 🌐 Portfolio: [https://gauravbosamiya.github.io/portfolio/](https://gauravbosamiya.github.io/portfolio/)  
 - 📫 Reach me at **gauravbosamiya9@gmail.com**  
 
 <p align="center">
