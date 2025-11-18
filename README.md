@@ -16,7 +16,7 @@
 - 📫 Reach me at **gauravbosamiya9@gmail.com**  
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1nGMcLcFiAAAo8pgyCJkGel0E4qCQ7eEw/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1nGMcLcFiAAAo8pgyCJkGel0E4qCQ7eEw/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" alt="Resume"/>
   </a>
 </p>
