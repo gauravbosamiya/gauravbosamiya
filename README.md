@@ -13,7 +13,6 @@
 - 🤝 Open to collaborations in **AI, GenAI, NLP, and Intelligent Agent systems**  
 - 👨‍💻 All my projects: [github.com/gauravbosamiya](https://github.com/gauravbosamiya)  
 - 💬 Ask me about **Machine Learning, Deep Learning, GenAI, and DSA**  
-- 🌐 Portfolio: [https://gauravbosamiya.github.io/portfolio/](https://gauravbosamiya.github.io/portfolio/)  
 - 📫 Reach me at **gauravbosamiya9@gmail.com**  
 
 <p align="center">
