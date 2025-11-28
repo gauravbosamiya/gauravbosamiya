@@ -16,7 +16,7 @@
 - 📫 Reach me at **gauravbosamiya9@gmail.com**  
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1nGMcLcFiAAAo8pgyCJkGel0E4qCQ7eEw/view?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/file/d/13ASimdfJSDWX4tAahGv1qyvu_GjK1ksT/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/📄%20View%20My%20Resume-blue?style=for-the-badge" alt="Resume"/>
   </a>
 </p>
@@ -25,13 +25,14 @@
 
 ### 🧠 Tech Stack Summary
 
-**GenAI & LLMs:** LangChain (RAG), LangSmith, Groq API, Hugging Face, Pinecone, ChromaDB, FAISS, MCP  
-**ML / DL:** TensorFlow, Keras, PyTorch, Scikit-learn, Transformers, CNN, RNN, LSTM, Transfer Learning  
-**MLOps & Deployment:** MLflow, DVC, Docker, Kubernetes, GitHub Actions, AWS (EC2, S3, ECR)  
-**Cloud & DB:** MongoDB Atlas, MySQL  
+**Languages:** Python, SQL
+**GenAI & LLMs:** LangChain (RAG), Langsmith, Groq API, Google Gemini API  
+**ML / DL:**  TensorFlow, Keras, Scikit-learn, neural networks, Transformer models, transfer learning
+**MLOps & Deployment:** MLflow, DVC, Docker, Kubernetes, CI/CD (GitHub Actions), AWS (EC2, S3, ECR)
+**Cloud & DB:** MongoDB Atlas, MySQL, VectorDB (Pinecone, FAISS)
 **Data & Viz:** Pandas, NumPy, Matplotlib, Seaborn  
 **Frameworks & Tools:** FastAPI, Streamlit, Git, PowerBI 
-**Languages:** Python, SQL
+
 
 ---
 
@@ -111,8 +112,3 @@
 </p>
 
 ---
-
-### 🌟 Quote
-<p align="center">
-  <em>“Every problem is a comma, not a full stop — until I achieve my goal.”</em>
-</p>
